@@ -13,4 +13,4 @@
 ### Exercises
 
 - Week 03 Exercise 
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Vanz5/Network_Analysis_Van/blob/main/week_3/week_03_Exercise.ipynb) [Exercise]https://github.com/Vanz5/Network_Analysis_Van/blob/main/week_3/week_03_Exercise.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Vanz5/Network_Analysis_Van/blob/main/week_3/week_03_Exercise.ipynb) [Exercise](https://github.com/Vanz5/Network_Analysis_Van/blob/main/week_3/week_03_Exercise.ipynb)
